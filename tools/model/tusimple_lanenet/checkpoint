@@ -1,0 +1,2 @@
+model_checkpoint_path: "tusimple_lanenet_vgg_2018-12-02-23-58-07.ckpt-0"
+all_model_checkpoint_paths: "tusimple_lanenet_vgg_2018-12-02-23-58-07.ckpt-0"
